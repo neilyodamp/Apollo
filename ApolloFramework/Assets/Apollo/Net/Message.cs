@@ -33,8 +33,7 @@ namespace Apollo.Net
         public abstract int Type();
 
         public abstract void Handle();
-        
-        
+
 
     }
 }

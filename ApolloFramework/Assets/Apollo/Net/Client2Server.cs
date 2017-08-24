@@ -19,8 +19,7 @@ namespace Apollo.Net
 
         private Client2Server()
         {
-            //foreach(Message msg in A)
-            //添加所有消息类型
+            
         }
         
         public void Init()
