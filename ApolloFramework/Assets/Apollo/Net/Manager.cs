@@ -92,7 +92,6 @@ namespace Apollo.Net
             {
 
             }
-
         }
 
         public Session CreateClientSession(string host,int port)
